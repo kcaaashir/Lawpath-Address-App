@@ -19,7 +19,7 @@ State is managed with **Zustand**, and the app is fully tested with **Jest + Rea
 
 ## 🏗️ Tech Stack
 
-- **React 18** + **TypeScript**  
+- **React 19** + **TypeScript**  
 - **Apollo Client** (GraphQL queries + caching)  
 - **Zustand** (lightweight state management)  
 - **Google Maps JavaScript API**  
