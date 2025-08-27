@@ -1,6 +1,6 @@
 # 🛰️ Address Verifier App
 
-A React + Apollo Client project that verifies Australian addresses using **postcode, suburb, and state**.  
+A Nextjs + Apollo Client project that verifies Australian addresses using **postcode, suburb, and state**.  
 It provides a simple UI for validation and displays results on a **Google Map**.  
 State is managed with **Zustand**, and the app is fully tested with **Jest + React Testing Library**.  
 
@@ -19,7 +19,7 @@ State is managed with **Zustand**, and the app is fully tested with **Jest + Rea
 
 ## 🏗️ Tech Stack
 
-- **React 19** + **TypeScript**  
+- **React 19** + **Next 15** + **TypeScript**  
 - **Apollo Client** (GraphQL queries + caching)  
 - **Zustand** (lightweight state management)  
 - **Google Maps JavaScript API**  
